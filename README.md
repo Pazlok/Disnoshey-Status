@@ -11,6 +11,7 @@
 - Batch undelete
 - Add delete template
 - Batch rollback
+- List ≤500 pages in a category
 
 # Other Possible Inclusions
 - Identify and remove dead/broken links
