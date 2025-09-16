@@ -29,4 +29,5 @@
 - **Generate list of pages with <1000 bytes**: There's already a feature for this, making it redundant.
 
 # Todo
-Nothing yet...
+- [ ] Add help module
+- [ ] Add cosmetic changes
