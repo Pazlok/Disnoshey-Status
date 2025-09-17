@@ -31,6 +31,7 @@
 # Todo
 - [ ] Add help module
 - [ ] Add cosmetic changes
+- [ ] Add logging
 
 # Note on Rate Limits
 Like any good API, Fandom's (or rather, MediaWiki's) API has rate limits. I just thought it would be good to mention it. I should also note that these will only be the "important" ones.
