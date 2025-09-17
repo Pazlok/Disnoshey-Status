@@ -31,3 +31,9 @@
 # Todo
 - [ ] Add help module
 - [ ] Add cosmetic changes
+
+# Note on Rate Limits
+Like any good API, Fandom's (or rather, MediaWiki's) API has rate limits. I just thought it would be good to mention it. I should also note that these will only be the "important" ones.
+**Move:** 20 hits every 60 seconds
+**Purge:** 30 hits every 60 seconds
+**Rollback:** 10 times every 60 seconds
